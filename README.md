@@ -45,13 +45,6 @@
   </a>
 </div>
 
-## Table of Contents
-1. [Introduction](#1-introduction)
-2. [Release](#2-release)
-3. [Model Download](#3-model-download)
-4. [Quick Start](#4-quick-start)
-5. [License](#5-license)
-6. [Citation](#6-citation)
 
 <p align="center">
   <a href="https://github.com/deepseek-ai/DeepSeek-VL2/tree/main?tab=readme-ov-file#3-model-download"><b>📥 Model Download</b></a> |
@@ -62,6 +55,16 @@
   <a href="https://arxiv.org/abs/2412.10302"><b>📄 Arxiv Paper Link</b></a> |
   <a href=""><b>👁️ Demo</b></a>
 </p>
+
+## Table of Contents
+1. [Introduction](#1-introduction)
+2. [Release](#2-release)
+3. [Model Download](#3-model-download)
+4. [Quick Start](#4-quick-start)
+5. [License](#5-license)
+6. [Citation](#6-citation)
+
+
 
 ## 1. Introduction
 
